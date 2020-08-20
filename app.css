@@ -1,0 +1,32 @@
+.but {
+    font-size: 55px;
+    /*margin: auto;*/
+
+}
+.block {
+    display: block;
+    border-radius: 15px;
+    /*text-align: center;*/
+    margin: auto;
+    background-color: #fff3c2;
+    width: 800px;
+  }
+.center {
+  text-align: center;
+
+}
+.but2 {
+    text-align: center;
+
+
+}
+.none0 {
+    display: contents;
+
+
+}
+.none1 {
+    display: none;
+
+
+}
